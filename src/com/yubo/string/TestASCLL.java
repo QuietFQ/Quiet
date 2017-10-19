@@ -6,6 +6,7 @@ public class TestASCLL {
 
 	public static void main(String[] args) {
 		System.out.println(DigestUtils.md5Hex(DigestUtils.md5Hex("fq18270895856")));
+		System.out.println("改改改");
 	}
 	
 	/**
